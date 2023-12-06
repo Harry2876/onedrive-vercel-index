@@ -20,7 +20,7 @@ module.exports = {
   title: "Hariom's Global Index",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: "Documents",
+  baseDirectory: "IndexFiles",
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
@@ -53,12 +53,12 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: "https://github.com/Harry2876/onedrive-vercel-index",
+      link: "https://github.com/Harry2876",
     },
 
     {
       name: 'Telegram',
-      link: "https://t.me/@xd1198",
+      link: "https://t.me/xd1198",
     }
   ],
 
